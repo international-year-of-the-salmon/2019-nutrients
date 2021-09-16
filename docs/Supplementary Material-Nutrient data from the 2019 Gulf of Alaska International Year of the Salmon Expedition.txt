@@ -1,0 +1,31 @@
+Protocols for Nutrient data from the 2019 Gulf of Alaska International Year of the Salmon Expedition
+
+
+
+The oceanographic survey will be conducted to assess the winter salmon habitat. It will use a salmon-oriented approach: a descriptive oceanography of the northeastern Pacific. At every grid station, a CTD (SBE-25, additional sensors will include pH, oxygen and fluorescence) will be deployed to a depth of 1000 m. The CTD will be equipped with a rosette holding 12 5-l Niskin bottles that will collect water samples from standard depths: 0, 25, 50, 75, 100, 150, 200, 400, 600 and 1000 m.
+From collected water samples, macronutrients (nitrates, phosphates and silicates), dissolved oxygen and chlorophyll-a (in the top 200 m only) will be measured onboard deploying standard hydro-chemical methods. In addition, replicate water samples will be frozen for a subsequent macronutrient analysis in the laboratory.  
+
+Nutrient samples for nitrate, nitrite, phosphate and silicic acid determination, were collected into 500 ml polyethylene bottles at each station. by Niskin sampler. The determenition were processed in ship laboratory using Shimadzu UV-1800 spectrophotometer, following the standard protocols for nutrients (Methods of seawater analysis…, 1999).  Phosphate concentrations in the submicromolar range were obtained using the Murphy-Riley method (1962). Nitrate and nitrite at submicromolar levels  were measured according to the method of Vood et al  (1967).  
+
+The water samples for the estimation of dissolved oxygen (DO) were collected with 100ml glass bottles and analyzed using Winkler’s method (Strickland and Parsons, 1968). Samples for the determination of Biological Oxygen Demand (BOD5) were collected in 100ml brown reagent bottles in order to prevent light penetration and hence arresting photosynthetic activities of phytoplanktons. 
+
+
+Equipment permitting, abiotic conditions in the upper layer (0-100 ?) will be measured using an underway CTD-O2 to understand salmon conditions during the trawl survey. This will be supplementing surface underway measurements. In addition, a 10-3 accuracy thermometer will be installed in the "fish-box" when live salmon will be collected. Both measurements are designated to obtain small-scale depth/temperature/salinity/dissolved oxygen variables within the salmon habitat.
+Equipment
+ 
+•	CTD
+•	Rosette
+•	Twelve 5L Niskin bottles
+•	CTD-OZ
+•	10-3 accuracy thermometer
+
+
+Nutrient measurent methods references
+(Murphy J, Riley JP (1962) A modified single solution method for the determination of phosphate in natural waters. Anal. Chim. Acta 27:31–36 
+
+Wood, E.D., Armstrong, F., & Richards, F.A. (1967). Determination of nitrate in sea water by cadmium-copper reduction to nitrite. Journal of the Marine Biological Association of the United Kingdom, 47, 23-31. 
+
+Methods of the seawater analysis. Eds. K. Grasshoff, K. Kremling, M. Ehrhardt, (1999). Viley-VCH: Weinheim, New York, 600 p.) 
+
+Strickland, JDH; Parsons, TR (1968). Determination of Dissolved Oxygen. in A Practical Handbook of Seawater Analysis. Fish. Res. Board Canada Bull. 167:71–75 
+
