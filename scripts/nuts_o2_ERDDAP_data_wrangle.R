@@ -13,6 +13,7 @@ chemistry <- read_excel(here("original_data", "raw_data", "IYS_GoA_2019_Hydro&Ch
 
 # Inlcude date in chemistry sheet
 chemistry <- left_join(dates, chemistry) %>% 
-  select(Station:"NO3  [mkM/l]")
+  select(Station:"NO3  [mkM/l]") %>% 
+  mutate(Longitude = ifelse(Longitude > 180, -360 + Longitude, Longitude))
 
 write_csv(chemistry, here("original_data", "IYS_2019_nutrients_O2.csv"))
