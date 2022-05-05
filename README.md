@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋 Welcome to the repository for the nutrient data collected in the Gulf of Alaska in 2019 as part of the International Year of the Salmon High Seas Expedition.
+🙋 Welcome to the repository for the nutrient and oxygen data collected in the Gulf of Alaska in 2019 as part of the International Year of the Salmon High Seas Expedition.
 
 🐟 The repository is structured as follows: 
   * `original_data` contains processed data files that have been sent to the IYS Data Scientists that have not been formatted to the IYS Data Template.
